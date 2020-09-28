@@ -1,1 +1,2 @@
-Hola, este fichero esta creado para la funcionalidad 1
+Hola, este fichero está creado para la funcionalidad 1.
+
